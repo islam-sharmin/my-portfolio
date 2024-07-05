@@ -38,7 +38,7 @@ const Navbar = () => {
                     </div>
                     <div className="flex items-center">
                         <img className="w-[50px] h-[50px]" src={portfolio} alt="" />
-                        <Link className="text-purple-600 text-3xl font-bold btn btn-ghost">Portfolio</Link>
+                        <Link className="text-purple-600 text-3xl font-bold btn btn-ghost">S.Islam</Link>
                     </div>
                 </div>
                 <div className="hidden lg:flex navbar-end">
