@@ -3,7 +3,7 @@ import { IoMdCloudDownload } from "react-icons/io";
 
 const Intro = () => {
     return (
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-6xl mx-auto my-14">
             <div className="text-center mt-14 space-y-4">
                 <h2 className="text-2xl font-bold"><span className="text-purple-600">Hello!</span> I am</h2>
                 <h1 className="text-5xl font-bold">Sharmin Islam</h1>

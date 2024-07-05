@@ -2,8 +2,8 @@ import profile from "../../../assets/profile.jpg"
 
 const About = () => {
     return (
-        <div className="mt-14 max-w-5xl mx-auto">
-            <h2 className="text-center text-3xl font-bold mb-8">About Me</h2>
+        <div className="my-14 max-w-5xl mx-auto">
+            <h2 className="text-center text-3xl font-bold mb-8 text-purple-600">About Me</h2>
             <div>
                 <div className="hero">
                     <div className="hero-content flex-col gap-14 lg:flex-row">
