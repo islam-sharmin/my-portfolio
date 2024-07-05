@@ -3,8 +3,8 @@ import { CiStar } from "react-icons/ci";
 
 const Skills = () => {
     return (
-        <div className="max-w-5xl mx-auto my-14">
-            <h2 className="text-3xl text-center font-bold text-purple-600">Skills</h2>
+        <div className="max-w-5xl mx-auto my-20">
+            <h2 className="text-3xl text-center font-bold text-purple-600 mb-14">Skills</h2>
             <div className="border border-purple-600 w-[70%] mx-auto rounded-2xl mt-8 py-6 px-10">
                 <h2 className="text-2xl text-center font-semibold mb-6 underline">Web Development</h2>
                 <div className="grid grid-cols-2 gap-5 w-[70%] mx-auto mr-10">

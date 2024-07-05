@@ -4,8 +4,8 @@ import travel from '../../../assets/Travel.png'
 
 const Projects = () => {
     return (
-        <div className="max-w-5xl mx-auto my-14">
-            <h2 className="text-3xl text-center font-bold text-purple-600 mb-8">Projects</h2>
+        <div className="max-w-5xl mx-auto my-20">
+            <h2 className="text-3xl text-center font-bold text-purple-600 mb-14">Projects</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
                 <div>
                     {/* project 1 */}
