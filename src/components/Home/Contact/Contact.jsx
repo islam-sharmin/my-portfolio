@@ -20,7 +20,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className="divider lg:divider-horizontal">OR</div>
-                <div className="card bg-base-300 w-full max-w-sm flex-1 shrink-0 shadow-2xl mx-auto md-mx-0">
+                <div className="card bg-base-300 w-full max-w-sm flex-1 shrink-0 shadow-2xl mx-auto md:mx-0">
                     <form className="card-body">
                         <div className="form-control">
                             <input type="text" placeholder="Your Full Name" className="input input-bordered" required />
